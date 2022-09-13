@@ -11,7 +11,7 @@ Table of content
 
 |task | chapter |  library | notebook|     |
 |-----|---------|----------|---------|-----|
-|Regular Expressions| 1.2 | [spaCy](https://spacy.io/)| [notebook](notebooks/nlp_1-2_regexp.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/nlp_1-2_regexp.ipynb)| 
+|Regular Expressions| 1.2 | [Standard library - re module](https://docs.python.org/3/library/re.html)| [notebook](notebooks/nlp_1-2_regexp.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/nlp_1-2_regexp.ipynb)| 
 |Bag of Words| 1.3 | ***python*** | [notebook](notebooks/nlp_1-3_bag_of_words.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/nlp_1-3_bag_of_words.ipynb)| 
 | Word Vectors| 1.3 | ***python*** | [notebook](notebooks/nlp_1-3_word_vectors.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/nlp_1-3_word_vectors.ipynb)| 
 |Word Sense Disambiguation| 1.5 | [nltk](https://www.nltk.org/)| [notebook](notebooks/nlp_1-5_word_sense_disambiguation.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/nlp_1-5_word_sense_disambiguation.ipynb)|
